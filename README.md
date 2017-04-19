@@ -51,7 +51,7 @@ config:
 		title: 'title',
 		description: 'description',
 		url: 'url',
-        img: 'imgurl'，
+        image: 'imgurl'，
         description: 'description',
         sites: ['iShare_weibo','iShare_qq','iShare_wechat','iShare_tencent','iShare_douban','iShare_qzone','iShare_renren','iShare_youdaonote','iShare_facebook','iShare_linkedin','iShare_twitter','iShare_googleplus','iShare_tumblr','iShare_pinterest'],
 		initialized: true,
